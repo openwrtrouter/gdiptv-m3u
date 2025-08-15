@@ -15,6 +15,10 @@ http://192.168.9.1:7088/udp/239.77.0.114:5146
 http://192.168.9.1:7088/udp/239.77.0.173:5146
 #EXTINF:-1 tvg-name="广东民生" group-title="IPTV-广东电视台",广东民生高清
 http://192.168.9.1:7088/udp/239.77.0.225:5146
+#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育高清-测试
+http://192.168.9.1:7088/udp/239.77.0.112:5146
+#EXTINF:-1 tvg-name="广东体育" group-title="IPTV-广东电视台",广东体育超清
+http://192.168.9.1:7088/udp/239.77.0.168:5146
 #EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教高清
 http://192.168.9.1:7088/udp/239.77.0.85:5146
 #EXTINF:-1 tvg-name="经济科教" group-title="IPTV-广东电视台",经济科教超清
@@ -588,6 +592,8 @@ http://192.168.9.1:7088/udp/239.77.0.244:5146
 http://192.168.9.1:7088/udp/239.77.0.245:5146
 #EXTINF:-1 tvg-name="广东综艺" group-title="IPTV-广东电视台",广东综艺 宽色域AVS2(4k) (AVS2)
 http://192.168.9.1:7088/udp/239.77.0.252:5146
+#EXTINF:-1 tvg-name="南国都市" group-title="IPTV-广州电视台",南国都市 4K
+http://192.168.9.1:7088/udp/239.253.43.99:5146
 #EXTINF:-1 tvg-name="深圳卫视 宽色域 25p" group-title="IPTV-深圳电视台",深圳卫视 宽色域 25p 4K
 http://192.168.9.1:7088/udp/239.77.0.67:5146
 #EXTINF:-1 tvg-name="深圳卫视 25p" group-title="IPTV-深圳电视台",深圳卫视 25p 4K
