@@ -5,7 +5,7 @@ urls = [
     "https://raw.githubusercontent.com/Tzwcard/ChinaTelecom-GuangdongIPTV-RTP-List/refs/heads/master/GuangdongIPTV_rtp_4k.m3u"
 ]
 
-replace_prefix = "http://192.168.9.1:7088/udp/"
+replace_prefix = "http://172.20.1.1:4022/rtp/"
 merged_content = ""
 
 for url in urls:
